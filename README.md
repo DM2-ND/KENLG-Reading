@@ -1,6 +1,6 @@
 # Knowledge-enriched Text Generation Reading-List
 
-**This repo is forked from this [original link](https://github.com/wyu97/KENLG-Reading/blob/master/README.md), you can star the original repo to get timely  updates.** 
+## **This repo is forked from this [link](https://github.com/wyu97/KENLG-Reading/blob/master/README.md), you can star the original repo to get timely  updates.** 
 
 Here is a list of recent publications about **Knowledge-enhanced text generation**.
 (Update on **Feb 10th, 2021**) <br>
